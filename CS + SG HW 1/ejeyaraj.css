@@ -39,7 +39,6 @@ p {
 
 a {
     color: #7900e6;
-    text-decoration: none;
     border-bottom: 1px dashed #7900e6;
 }
 
@@ -49,15 +48,15 @@ a:hover {
 }
 
 button {
-    background-color: #4d00b1; /* Dark purple button */
-    color: #fff; /* Text color */
+    background-color: #4d00b1;
+    color: #fff;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #7900e6; /* Slightly lighter on hover */
+    background-color: #7900e6;
 }
 
 .flex-container{
